@@ -11,7 +11,7 @@ Note that the below Requirements will be automatically installed using WinGet
 ## Setup
 First clone this repo anywhere you want.
 
-Then, open your Powershell profile, which should be located at C:\Users\mwebb\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1
+Then, open your Powershell profile, which should be located at *C:\Users\<your user name>\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1*
 
 In your profile file load the `workflow-helper.ps1` script with the following line:
 
